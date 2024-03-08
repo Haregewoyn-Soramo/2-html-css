@@ -1,0 +1,73 @@
+body
+{
+  background-color: rgb(213, 197, 197);
+}
+.icon
+{
+  width: 50px;
+  position: absolute;
+  right: 200px;
+  border-radius: 25px;
+  
+}
+form
+{
+  width: 400px;
+  height: 400px;
+  position: relative;
+  top: 80px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(4, 45, 61);
+}
+h1
+{
+  color: white;
+  font-weight: bold;
+  font-family: arial;
+  position: relative;
+  text-align: center;
+  font-size: 25px;
+  top: 30px;
+}
+input
+{
+  width: 380px;
+  font-weight: bold;
+  color: rgb(77, 71, 71);
+  height: 30px;
+  position: relative;
+  text-align: center;
+  margin-top: 7px;
+}
+select
+{
+  width: 382px;
+  height: 30px;
+  position: relative;
+  text-align: center;
+  margin-top: 7px;
+  color: rgb(77, 71, 71);
+  font-weight: bold;
+}
+button
+{
+  position: relative;
+  text-align: center;
+  width: 382px;
+  height: 40px;
+  margin-top: 7px;
+  color: rgb(77, 71, 71);
+  font-weight: bold;
+}
+textarea
+{
+  width: 382px;
+  height: 100px;
+  position: relative;
+  text-align: center;
+  margin-top: 7px;
+  color: rgb(77, 71, 71);
+  font-weight: bold;
+}
